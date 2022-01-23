@@ -1,4 +1,5 @@
-# flexbox-exercise
+# flexbox-exercise by Zaher
+Check the [live link](https://gsg-g11.github.io/flexbox-exercise-zaher/)
 
 We have a skeleton for our website as the picture below, use what you have already learned about CSS Flexbox to make our website alive.
 
